@@ -1,2 +1,0 @@
-# vegetable-market
-Angular 
